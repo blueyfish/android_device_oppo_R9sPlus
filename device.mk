@@ -35,6 +35,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     R9sPlus_camera_config.xml
 
+PRODUCT_PACKAGES += \
+    libflash_lm3643
+
 # Input
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/keylayout/synaptics-s3320.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/synaptics-s3320.kl

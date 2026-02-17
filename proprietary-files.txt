@@ -20,7 +20,6 @@ system/etc/firmware/tfa9890.cnt:vendor/firmware/tfa98xx.cnt
 system/bin/mm-qcamera-daemon:vendor/bin/mm-qcamera-daemon|f43137738f2c97bce97e7dec86adcb3c7aaa698a|5d0dcec2c198cbd8df186ad445a0eefbea4bb6a2
 vendor/lib/libchromaflash.so|cf85560822e04014b8950a1abae9c2843069101d|8da6ba08dd23993eb248e566e365884c15d03c1b
 vendor/lib/libcvface_api.so|14dc7e00a7e4ef21b79920ce11aa63244f25868d
-vendor/lib/libflash_lm3642.so|ff50298954558a7186dda581b0798c673ba7854e
 vendor/lib/libjpegdhw.so|01031d2e9dee09d213a2063dddb758c1f8bc8b26
 vendor/lib/libjpegdmahw.so|0836e58b681c3ee6811080cd62c6dd54314dd4b4
 vendor/lib/libjpegehw.so|098ba784cb55cc5346c04cf9d4ef4a823f00f9ee
